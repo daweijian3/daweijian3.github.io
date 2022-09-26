@@ -7,7 +7,7 @@ author_profile: true
 {% include base_path %} 
 
 ## Publications
-1. \textit{Dynamic Incentives for Sustainable Contract Farming}, with Wei Zhang, Long Gao, Mohammad Zolghadr, Mohsen El Hafsi. forthcoming at Management Science **Production and Operations Management**, 2022.
+1. *Dynamic Incentives for Sustainable Contract Farming*, with Wei Zhang, Long Gao, Mohammad Zolghadr, Mohsen El Hafsi. forthcoming at Management Science **Production and Operations Management**, 2022.
 
 
 
