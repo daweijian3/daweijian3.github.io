@@ -25,7 +25,7 @@ My research focuses on dynamic incentives and information management in Marketin
 ### Education
 
 * **Ph.D. in Operations Management**   
-University of California, Riverside (2018-2023 Expected) (Advisor: [Zuo-Jun (Max) Shen](https://shen.ieor.berkeley.edu))  
+University of California, Riverside (2018-2023 Expected)
 * **M.S. in Mathematics**    
 University of California, Riverside (2021-2023 Expected)
 * **Master in Finance**    
