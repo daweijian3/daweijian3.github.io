@@ -8,13 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-## Welcome!
+# Welcome!
 
 I am a Ph.D. candidate in Operations Management at Anderson Graduate School of Management, University of California, Riverside.
 
 My research focuses on dynamic incentives and information management in Marketing-Operations Interface. The central question is what management can achieve, when the information for decision making is dispersed, privately held, and evolving dynamically. The primary machinery is dynamic optimization, game theory, mechanism design and information design. I am advised by Prof. [Long Gao](https://profiles.ucr.edu/app/home/profile/longg) and Prof. [Hai Che](https://sites.google.com/view/haiche/home).
 
-### Research Interest
+## Research Interest
    
 * Marketing-Operations Interface
 * Supply Chain Management
@@ -22,7 +22,7 @@ My research focuses on dynamic incentives and information management in Marketin
 * Sales Force Management
 * Sustainability
 
-### Education
+## Education
 
 * **Ph.D. in Operations Management**   
 University of California, Riverside (2018-2023 Expected)
