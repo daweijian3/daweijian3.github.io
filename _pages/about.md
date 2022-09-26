@@ -12,9 +12,9 @@ redirect_from:
 
 I am a Ph.D. candidate in Operations Management at Anderson Graduate School of Management, University of California, Riverside.
 
+My research focuses on dynamic incentives and information management in Marketing-Operations Interface. The central question is what management can achieve, when the information necessary for decision making is dispersed, privately held, and evolving dynamically over time. The primary machinery is dynamic optimization, game theory, mechanism design and information design.
 
 ### Research Interest
-My research focuses on dynamic incentives and information management in Marketing-Operations Interface. The central question is what management can achieve, when the information necessary for decision making is dispersed, privately held, and evolving dynamically over time. The primary machinery is dynamic optimization, game theory, mechanism design and information design.
    
 * Marketing-Operations Interface
 * Supply Chain Management
