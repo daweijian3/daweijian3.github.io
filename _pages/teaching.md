@@ -6,4 +6,4 @@ author_profile: true
 ---
 
 ## Teaching Assistant
-* BUS 103, Marketing and Distribution Management, UC Riverside, Summer 22 ([Evaluations](https://daweijian3.github.io/files/BUS103_Evaluations.pdf), [Comments](https://daweijian3.github.io/files/BUS103_Comments.pdf))
+* BUS 103, Marketing and Distribution Management, UC Riverside, Summer 22 ([Evaluations](https://daweijian3.github.io/files/BUS103_Evaluation.pdf), [Comments](https://daweijian3.github.io/files/BUS103_Comments.pdf))
