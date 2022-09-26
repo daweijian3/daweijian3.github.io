@@ -30,5 +30,6 @@ University of California, Riverside (2018-2023 Expected)
 University of California, Riverside (2021-2023 Expected)
 * **Master in Finance**    
 University of California, Riverside (2014-2015)
-* **B.S. in Economics**
+* **B.S. in Economics**    
 Huazhong University of Science and Technology (2010-2014)
+
