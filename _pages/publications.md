@@ -17,4 +17,4 @@ author_profile: true
 1. *Salesforce Compensation on Personalized Training*, in preparation.
 
 
-**Working papers available upon request**
+**Working papers are available upon request**
