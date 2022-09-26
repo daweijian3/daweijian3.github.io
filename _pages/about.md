@@ -19,6 +19,8 @@ My research focuses on dynamic incentives and information management in Marketin
 * Marketing-Operations Interface
 * Supply Chain Management
 * Behavioral Operations & Economics
+* E-Commerce Pricing
+* Product Management
 * Sales Force Management
 * Sustainability
 
