@@ -10,9 +10,11 @@ redirect_from:
 
 # Welcome!
 
-I am an Assistant Professor of Supply Chain & Operations Management at Lubar College of Business, University of Wisconsin-Milwaukee. My research focuses on dynamic incentives and information management. The central question is what management can achieve, when the information for decision making is dispersed, privately held, and evolving dynamically. The primary machinery is dynamic optimization, game theory, mechanism design and information design.
+I am an Assistant Professor of Supply Chain & Operations Management at [Lubar College of Business](https://uwm.edu/business/), University of Wisconsin-Milwaukee. 
 
 ## Research Interests
+
+My research focuses on dynamic incentives and information management. The central question is what management can achieve, when the information for decision making is dispersed, privately held, and evolving dynamically. The primary machinery is dynamic optimization, game theory, mechanism design and information design.
 
 * Dynamic Incentives
 * Marketing-Operations Interface
