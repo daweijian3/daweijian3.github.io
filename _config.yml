@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Dawei Jian"
   avatar           : "profile.jpg"
-  bio              : "Ph.D. Candidate in Operations Management, University of California, Riverside"
-  location         : "Riverside, CA"
+  bio              : "Assistant Professor of Supply Chain & Operations Management, University of Wisconsin-Milwaukee"
+  location         : "Milwaukee, WI"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            : "djian005@ucr.edu"
+  email            : "jiand@uwm.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
