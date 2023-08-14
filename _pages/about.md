@@ -10,12 +10,11 @@ redirect_from:
 
 # Welcome!
 
-I am a Ph.D. candidate in Operations Management at Anderson Graduate School of Management, University of California, Riverside.
-
-My research focuses on dynamic incentives and information management in Marketing-Operations Interface. The central question is what management can achieve, when the information for decision making is dispersed, privately held, and evolving dynamically. The primary machinery is dynamic optimization, game theory, mechanism design and information design. I am advised by Prof. [Long Gao](https://profiles.ucr.edu/app/home/profile/longg). 
+I am an Assistant Professor of Supply Chain & Operations Management at Lubar College of Business, University of Wisconsin-Milwaukee. My research focuses on dynamic incentives and information management. The central question is what management can achieve, when the information for decision making is dispersed, privately held, and evolving dynamically. The primary machinery is dynamic optimization, game theory, mechanism design and information design.
 
 ## Research Interests
-   
+
+* Dynamic Incentives
 * Marketing-Operations Interface
 * Supply Chain Management
 * Behavioral Operations & Economics
@@ -27,9 +26,9 @@ My research focuses on dynamic incentives and information management in Marketin
 ## Education
 
 * **Ph.D. in Operations Management**   
-University of California, Riverside (2018-2023 Expected)
+University of California, Riverside (2018-2023)
 * **M.S. in Mathematics**    
-University of California, Riverside (2021-2023 Expected)
+University of California, Riverside (2021-2023)
 * **Master in Finance**    
 University of California, Riverside (2014-2015)
 * **B.S. in Economics**    
