@@ -28,7 +28,7 @@ My research focuses on dynamic incentives and information management. The centra
 ## Education
 
 * **Ph.D. in Operations Management**   
-University of California, Riverside (2018-2023)
+University of California, Riverside (2018-2023) (Advised by Prof. [Long Gao](https://longgao.wordpress.com/))
 * **M.S. in Mathematics**    
 University of California, Riverside (2021-2023)
 * **Master in Finance**    
