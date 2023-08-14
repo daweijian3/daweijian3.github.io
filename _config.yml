@@ -86,7 +86,7 @@ author:
   location         : "Milwaukee, WI"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : #"http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?user=0q2y9ZIAAAAJ&hl=en&oi=sra"
   email            : "jiand@uwm.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
