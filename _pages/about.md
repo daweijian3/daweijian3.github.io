@@ -20,7 +20,7 @@ My research focuses on incentives and information management. The central questi
 * Operations-Marketing Interface
 * Supply Chain Management
 * Supply Risk
-* Behavioral Operations & Economics
+* Behavioral Economics
 * Pricing
 * Product Management
 * Compensation
