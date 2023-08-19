@@ -18,5 +18,5 @@ author_profile: true
 * *POMS 32nd Annual Conference*, Virtual, April 25, 2022.
 * *POMS 31st Annual Conference*, Virtual, May 4, 2021.
 
-### Salesforce Compensation on Personalized Training
+### Compensation with Self-Directed Training
 * *7th Biennial Conference on Enhancing Sales Force Productivity*, University of Kansas, April 23, 2022.
