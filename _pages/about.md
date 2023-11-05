@@ -19,10 +19,9 @@ My research focuses on incentives and information management within business con
 * Dynamic Incentives
 * Operations-Marketing Interface
 * Supply Chain Management
-* Supply Risk
 * Behavioral Economics
 * Pricing
-* Product Design
+* Services Design
 * Compensation
 
 ## Education
