@@ -13,10 +13,7 @@ author_profile: true
 * George W Du Bois Mem Award – Fdn, UC Riverside, 2019
 * Dean's Distinguished Fellowship Award, UC Riverside, 2018 - 2022
 
-<!## Services>
-* Session chair, INFORMS Annual Meeting, 2022
-* Reviewer for     
-    * Journal of the Operational Research Society
+
 
 ## Members
 * Institute of Operations Research and Management Sciences (INFORMS)
