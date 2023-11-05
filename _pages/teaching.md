@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ## Instructor
-* BusAdm 783, Digital Supply Chain Management, UW-Milwaukee, Fall 2023
+* BusAdm 783, Modeling and Analytics in Supply Chain Management, UW-Milwaukee, Fall 2023
 * BusAdm 787, Managing Connected Supply Chains, UW-Milwaukee, Fall 2023
 * BUS 147, Entrepreneurial Finance, UC Riverside, Spring 2023
 
