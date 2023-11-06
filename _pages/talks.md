@@ -3,7 +3,6 @@ layout: archive
 title: ""
 permalink: /talks/
 author_profile: true
-published: false
 ---
 
 ## Conference Presentations
