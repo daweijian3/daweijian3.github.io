@@ -20,7 +20,7 @@ My research focuses on incentives and information management within business con
 * Supply Risk Management
 * Behavioral Economics
 * Pricing
-* Compensation
+* Human Capital Management
 * Healthcare Operations
 
 ## Education
