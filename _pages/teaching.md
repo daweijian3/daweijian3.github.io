@@ -11,7 +11,7 @@ author_profile: true
 * BusAdm 787, Managing Connected Supply Chains, UW-Milwaukee, Fall 23, Spring 24
 
 ### Undergraduate Level
-* BusAdm 478, Supply Chain Analytics, Fall 24
+* BusAdm 478, Supply Chain Analytics, UW-Milwaukee, Fall 24
 * BUS 147, Entrepreneurial Finance, UC Riverside, Spring 23
 
 ## Teaching Assistant
