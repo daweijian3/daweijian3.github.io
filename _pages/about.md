@@ -14,15 +14,14 @@ I am an Assistant Professor of Supply Chain & Operations Management at [Lubar Co
 
 ## Research Interests
 
-My research focuses on incentives and information management within business contexts. The central question is what management can achieve, when the information for decision making is dispersed, privately held, and evolving dynamically. The primary machinery is dynamic optimization, game theory, mechanism design and information design.
+My research focuses on incentives and information management within business contexts. The primary machinery is dynamic optimization, game theory, mechanism design and information design.
 
 * Dynamic Incentives
-* Operations-Marketing Interface
-* Supply Chain Management
+* Supply Risk Management
 * Behavioral Economics
 * Pricing
-* Services Design
 * Compensation
+* Healthcare Operations
 
 ## Education
 
