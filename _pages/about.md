@@ -17,11 +17,12 @@ I am an Assistant Professor of Supply Chain & Operations Management at [Lubar Co
 My research focuses on incentives and information management within business contexts. The primary machinery is dynamic optimization, game theory, mechanism design and information design.
 
 * Dynamic Incentives
+* Distribution Channel
 * Supply Risk Management
 * Behavioral Economics
 * Pricing
 * Human Capital Management
-* Healthcare Operations
+* Healthcare IO
 
 ## Education
 
