@@ -10,7 +10,7 @@ redirect_from:
 
 # Welcome!
 
-I am an Assistant Professor of Supply Chain & Operations Management at [Lubar College of Business](https://uwm.edu/business/), University of Wisconsin-Milwaukee. 
+I am an Assistant Professor of Supply Chain & Operations Management at [Lubar College of Business](https://uwm.edu/business/), University of Wisconsin-Milwaukee.
 
 ## Research Interests
 
