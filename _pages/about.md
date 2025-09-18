@@ -27,7 +27,7 @@ My research focuses on incentives and information management within business con
 ## Education
 
 * **Ph.D. in Operations Management**   
-University of California, Riverside (2018-2023) (Advised by Prof. [Long Gao](https://longgao.wordpress.com/))
+University of California, Riverside (2018-2023)
 * **M.S. in Mathematics**    
 University of California, Riverside (2021-2023)
 * **Master in Finance**    
