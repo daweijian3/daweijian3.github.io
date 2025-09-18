@@ -27,11 +27,11 @@ My research focuses on incentives and information management within business con
 ## Education
 
 * **Ph.D. in Operations Management**   
-University of California, Riverside (2018-2023)
+University of California, Riverside
 * **M.S. in Mathematics**    
-University of California, Riverside (2021-2023)
+University of California, Riverside
 * **Master in Finance**    
-University of California, Riverside (2014-2015)
+University of California, Riverside
 * **B.S. in Economics**    
-Huazhong University of Science and Technology (2010-2014)
+Huazhong University of Science and Technology
 
