@@ -19,10 +19,10 @@ My research focuses on incentives and information management within business con
 * Dynamic Incentives
 * Distribution Channel
 * Procurement
-* Behavioral Economics
+* Supply Risks
 * Pricing
-* Human Capital Management
-* Healthcare IO
+* Compensation
+* Healthcare
 
 ## Education
 
