@@ -7,15 +7,10 @@ author_profile: true
 
 ## Instructor
 ### Graduate Level
-* BusAdm 783, Modeling and Analytics in Supply Chain Management, UW-Milwaukee, Fall 23, Spring 24, Fall 24, Spring 26
-* BusAdm 787, Managing Connected Supply Chains, UW-Milwaukee, Fall 23, Spring 24, Spring 25, Spring 26
-* BusMgmt 711, Global Supply Chain Strategies & Competitive Operations, UW-Milwaukee, Spring 25, Spring 26
+* BusAdm 783, Modeling and Analytics in Supply Chains, UW-Milwaukee, F23, S24, F24, S26, S27
+* BusAdm 787, Managing Connected Supply Chains, UW-Milwaukee, F23, S24, S25, S26, F26
+* BusMgmt 711, Global Supply Chain Strategies & Competitive Operations, UW-Milwaukee, S25, S26
 
 ### Undergraduate Level
-* BusAdm 478, Supply Chain Analytics, UW-Milwaukee, Fall 24, Fall 25
-* BUS 147, Entrepreneurial Finance, UC Riverside, Spring 23
-
-## Teaching Assistant
-* BUS 103, Marketing and Distribution Management, UC Riverside, Summer 22 
-* BUS 105, Production and Operations Management, UC Riverside, Fall 20 - Winter 22 
-* BUS 104, Decision Analysis and Management Science, UC Riverside, Fall 19 - Summer 20
+* BusAdm 478, Supply Chain Analytics, UW-Milwaukee, F24, F25, F26, S27
+* BUS 147, Entrepreneurial Finance, UC Riverside, S23
